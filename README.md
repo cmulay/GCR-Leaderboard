@@ -32,6 +32,8 @@ See the milestones and the prizes associated with them below. We will record you
 
 ## Project Details
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cmulay.GCR-Leaderboard)
+
 This project is a leaderboard for the students of Mukesh Patel School of Technology Management & Engineering participating in the GoogleCloudReady Facilitator Program.
 
 ## Installation
